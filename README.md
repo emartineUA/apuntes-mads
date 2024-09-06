@@ -12,4 +12,4 @@ La distribución semanal de actividades está disponible en la [página
 de Moodle](https://moodle2024-25.ua.es/moodle/course/view.php?id=927)
 de la asignatura.
 
-Los apuntes de las prácticas están disponibles en el repositorio [emartineUA/practicas-mads](https://github.com/emartineUA/practicas-mads).
+Los apuntes de las prácticas están disponibles en el repositorio [emartineUA/practicas-mads](https://github.com/emartineUA/practicas-mads) .
