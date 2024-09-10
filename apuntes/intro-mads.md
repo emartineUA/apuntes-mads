@@ -472,12 +472,9 @@ permitirá el uso de estas herramientas.
 ## Bibliografía ##
 
 A continuación puedes ver un listado de libros en los que ampliar los
-contenidos de la asignatura. Se incluye un enlace a O'Reilly para
-poder consultarlos con tu ordenador o tablet. Puedes encontrar todos
-los libros en la Playlist de O'Reilly [Metodologías
-ágiles](https://learning.oreilly.com/playlists/df91e777-07f6-47ac-a9d0-3f02724af1a2).
+contenidos de la asignatura.
 
-La mayoría también está disponible en formato físico en la biblioteca
+La mayoría está disponible en formato físico en la biblioteca
 de la UA. Puedes consultar su ubicación y disponibilidad en el
 [catálogo de la
 UA](https://cat.biblioteca.ua.es/discovery/search?vid=34CVA_UA:VU1&amp;lang=es)
