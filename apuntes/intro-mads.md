@@ -358,7 +358,7 @@ El bloque tendrá una **duración de 2 semanas** y veremos los siguientes aparta
   en progreso, flujo, mejora continua, límite en el WIP.
 - Kanban vs. Scrum.
 
-## Bloque 3: Integración y entrega continua ##
+## Bloque 4: Integración y entrega continua ##
 
 <img src="imagenes/gitflow.png" width="200px" align="right"/>
 
