@@ -28,7 +28,7 @@ elementos:
 - [Tablero Trello de historias de usuario](https://trello.com/b/5zWOT6uO/todolist-inicial)
 
 Debes leer la [introducción a Spring
-Boot](https://emartineua.github.io/01-intro-spring-boot/intro-spring-boot.html) para entender los
+Boot]([https://github.com/emartineUA/apuntes-mads/blob/main/practicas/01-intro-spring-boot/intro-spring-boot.md] para entender los
 conceptos fundamentales del framework.
 
 ## 2. Aplicación inicial ##
