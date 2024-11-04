@@ -905,7 +905,7 @@ refactorización.
 
 ### Versión inicial ###
 
-El ejemplo está un algo desfasado, porque tiene que ver con un negocio
+El ejemplo está un tanto desfasado, porque tiene que ver con un negocio
 que ya ha desaparecido completamente, sepultado por el streaming de
 series y películas online: una aplicación de gestión de un videoclub.
 
