@@ -1276,9 +1276,9 @@ una nueva rama de mantenimiento, por ejemplo, `maintenance/1.0.x` o `hotfix/1.0.
 
 2. **Corregir el bug en esa rama de mantenimiento.**
 
-3. **Fusionar la corrección en la rama de mantenimiento y etiquetar una nueva
+3. **Fusionar la corrección en la rama main y etiquetar una nueva
 sub-versión**: Una vez que la corrección está probada y confirmada, puedes hacer
-merge de esos cambios en la rama de mantenimiento y crear una nueva etiqueta,
+merge de esos cambios en la rama de main y crear una nueva etiqueta,
 por ejemplo, 1.0.1. Esto sirve para liberar una versión menor que incluye el
 arreglo para el bug. 
 
